@@ -1,5 +1,5 @@
 Docker Hub: https://hub.docker.com/repository/docker/dogterbox/ip-info  
-Git Hub:
+Git Hub: https://github.com/dogterbox/ip-info
 
 ---
 
